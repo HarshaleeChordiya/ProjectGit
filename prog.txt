@@ -1,11 +1,15 @@
 Hello world!!!
 
-Change 1-> Login featured enhancement fir WI4 by teammate to test 3-way feature
 
-Change 2-> Logout featured
+Change 1:-> Login featured enhancement fir WI4 by teammate to test 3-way feature
 
-Change 3-> Logout featured enhancement
+Change 2:-> Logout featured
 
-Change 4->Bug 1 fix
+Change 3:-> Logout featured enhancement
 
-Change 5 -> Made by team mate for WI4
+Change 4:->Bug 1 fix
+
+Change 5 :-> Made by team mate for WI4
+
+Change 6:-> Bug2 fix
+
